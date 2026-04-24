@@ -1,16 +1,21 @@
-## Hi there 👋
+```js
+import Desenvolvedor from "andre09moraes";
 
-<!--
-**andre09moraes-GEG/andre09moraes-GEG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "André Moraes";
+  area = "Desenvolvedor Front-End";
+  trabalho = "Greco & Guuerreiro Ltda";
+}
 
-Here are some ideas to get you started:
+class Skills extends Desenvolvedor {
+  linguagens = ["JavaScript", "TypeScript"];
+  bibliotecas = ["appStack","Zod","Socket.io"];
+  frameworks = ["React","Fastify"];
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre09moraes/andre09moraes/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre09moraes/andre09moraes/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/andre09moraes/andre09moraes/output/snake.svg">
+</picture>
