@@ -15,7 +15,5 @@ class Skills extends Desenvolvedor {
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andre09moraes-GEG/andre09moraes-GEG/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andre09moraes-GEG/andre09moraes-GEG/output/snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/andre09moraes-GEG/andre09moraes-GEG/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 </picture>
