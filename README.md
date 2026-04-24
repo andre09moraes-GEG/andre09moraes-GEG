@@ -15,5 +15,5 @@ class Skills extends Desenvolvedor {
 ```
 
 <picture>
-  <img src="https://raw.githubusercontent.com/andre09moraes-GEG/gitrepo/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/andre09moraes-GEG/andre09moraes-GEG/output/snake.svg" alt="Snake animation" />
 </picture>
