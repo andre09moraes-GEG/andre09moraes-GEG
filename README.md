@@ -13,7 +13,3 @@ class Skills extends Desenvolvedor {
   frameworks = ["React","Fastify"];
 }
 ```
-
-<picture>
-  <img src="https://raw.githubusercontent.com/andre09moraes-GEG/andre09moraes-GEG/output/snake.svg" alt="Snake animation" />
-</picture>
