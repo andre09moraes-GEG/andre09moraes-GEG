@@ -11,7 +11,7 @@ class Skills extends Developer {
   languages = ["JavaScript", "TypeScript"];
   libraries = ["React","appStack","Zod","Socket.io"];
   frameworks = ["Fastify","Bootstrap","Tailwind CSS"];
-  orm = ["Prisma";
+  orm = ["Prisma"];
   databases = ["SQL Server"];
 }
 ```
